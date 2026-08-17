@@ -1,2 +1,2 @@
 ### 🌐 Connect & Portfolio
-- 🌍 Portfolio: [MY Portfolio](https://armabir.vercel.app)
+- 🌍 Portfolio: [armabir.vercel.app](https://armabir.vercel.app)
